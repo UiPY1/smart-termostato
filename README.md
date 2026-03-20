@@ -1,5 +1,3 @@
----
-
 ## Funzioni Principali
 
 ### setup()
