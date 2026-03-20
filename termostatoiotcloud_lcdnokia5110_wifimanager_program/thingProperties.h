@@ -2,8 +2,8 @@
 #include <Arduino_ConnectionHandler.h>
 
 
-const char THING_ID[]           = "XXXX";  //Enter THING ID   296dcf32-7dca-42d7-b55a-80808075725a
-const char DEVICE_LOGIN_NAME[]  = "XXXX"; //Enter DEVICE ID  708e52cc-4654-4bb4-a575-99b4a35861f4
+const char THING_ID[]           = "XXXX";  //Enter THING ID  
+const char DEVICE_LOGIN_NAME[]  = "XXXX"; //Enter DEVICE ID  
 const char DEVICE_KEY[]  = "XXXX";    // Secret device password
 // Dichiarazione delle variabili di cloud
 extern float currentTemperature;
